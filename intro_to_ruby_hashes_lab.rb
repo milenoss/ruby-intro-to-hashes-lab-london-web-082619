@@ -10,7 +10,9 @@ rock
 end
 
 def monopoly
-	monopoly = {}
+	monopoly = {
+	  :railroads => {}
+	}
 
 end
 
