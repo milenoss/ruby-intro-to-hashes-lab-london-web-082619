@@ -4,6 +4,8 @@ hash
 end
 
 def actor
+rock = { :name => "Dwayne The Rock Johnson" 
+}
 
 end
 
