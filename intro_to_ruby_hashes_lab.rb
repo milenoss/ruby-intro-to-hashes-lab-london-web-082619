@@ -6,7 +6,7 @@ end
 def actor
 rock = { :name => "Dwayne The Rock Johnson" 
 }
-
+rock
 end
 
 def monopoly
